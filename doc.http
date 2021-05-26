@@ -17,3 +17,14 @@ Content-Type: application/json
     "password2":"somerandompassword1234",
     "email":"fake@email.com"
 }
+
+###test fetch post list
+GET http://127.0.0.1:8000/api/posts/
+Content-Type: application/json
+
+{
+    "username":"test",
+    "password1":"somerandompassword1234",
+    "password2":"somerandompassword1234",
+    "email":"fake@email.com"
+}
