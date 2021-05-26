@@ -1,0 +1,19 @@
+###testing login
+POST http://127.0.0.1:8000/dj-rest-auth/login/
+Content-Type: application/json
+
+{
+    "username":"super",
+    "password":"super1234"
+}
+
+###testing registration
+POST http://127.0.0.1:8000/dj-rest-auth/registration/
+Content-Type: application/json
+
+{
+    "username":"test",
+    "password1":"somerandompassword1234",
+    "password2":"somerandompassword1234",
+    "email":"fake@email.com"
+}
