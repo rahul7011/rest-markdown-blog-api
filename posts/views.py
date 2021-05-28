@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework import generics,permissions, serializers
 from .models import Post
-from .serializers import PostSerializer
+from .serializers import PostSerializer,PostCreateSerializer
 
 class PostListView(generics.ListAPIView):
     permission_classes=[permissions.AllowAny]
@@ -13,3 +13,10 @@ class PostDetailView(generics.RetrieveAPIView):
     queryset=Post.objects.all()
     serializer_class=PostSerializer
     lookup_field='slug'
+
+class PostCreateView(generics.CreateAPIView):
+    permission_classes=[permissions.AllowAny]
+    serializer_class=PostCreateSerializer
+
+    def perform_create(self,serializer):
+        serializer.save(user=self.request.user)
