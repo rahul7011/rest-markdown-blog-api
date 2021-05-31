@@ -14,10 +14,10 @@
 
 1. Create a virtualenv with `virtualenv env`
 2. Install dependencies with `pip install -r requirements.txt`
-3. clone this reposiotory [link](https://github.com/justdjango/rest-markdown-blog-ui) and Run `npm run start`
+3. clone this reposiotory(front-end) [link](https://github.com/rahul7011/rest-markdown-blog-ui) and Run `npm run start`
 
 
-Note:This is the backend Part.You can get the front-end from [here](https://github.com/justdjango/rest-markdown-blog-ui)
+Note:This is the backend Part.You can get the front-end from [here](https://github.com/rahul7011/rest-markdown-blog-ui)
 
 ## Screenshots
 <table>
