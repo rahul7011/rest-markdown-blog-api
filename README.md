@@ -1,10 +1,3 @@
-
-
-
-
-
-
-
 # Rest Markdown blog API :desktop_computer:	:spiral_notepad: :camera:
 
  Created an Blog Markdown application using Django and Django Rest Framework.
@@ -22,6 +15,9 @@
 1. Create a virtualenv with `virtualenv env`
 2. Install dependencies with `pip install -r requirements.txt`
 3. clone this reposiotory [link](https://github.com/justdjango/rest-markdown-blog-ui) and Run `npm run start`
+
+
+Note:This is the backend Part.You can get the front-end from [here](https://github.com/justdjango/rest-markdown-blog-ui)
 
 ## Screenshots
 <table>
