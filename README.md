@@ -1,4 +1,10 @@
 
+
+
+
+
+
+
 # Rest Markdown blog API :desktop_computer:	:spiral_notepad: :camera:
 
  Created an Blog Markdown application using Django and Django Rest Framework.
@@ -10,50 +16,38 @@
  
  
   ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg) ![forthebadge](https://forthebadge.com/images/badges/for-you.svg)
-## Want to get Familiar with Project 🤗?
-https://user-images.githubusercontent.com/52202163/119266605-151ece00-bc09-11eb-87aa-0368c237a666.mov
 
 ## Setup process
 
 1. Create a virtualenv with `virtualenv env`
 2. Install dependencies with `pip install -r requirements.txt`
-3. clone this reposiotory [link](https://github.com/justdjango/rest-markdown-blog-ui)
-and Run `npm run start`
+3. clone this reposiotory [link](https://github.com/justdjango/rest-markdown-blog-ui) and Run `npm run start`
 
 ## Screenshots
 <table>
  <tr>
   <td>
-   <img width="420" alt="DMP1" src="https://user-images.githubusercontent.com/52202163/119264480-06ccb400-bc01-11eb-955b-37430edf8c30.png">
+   <img width="420" alt="1" src="https://user-images.githubusercontent.com/52202163/120165731-7c480e00-c219-11eb-9caf-8cb60502666a.png">
   </td>
   <td>
-   <img width="420" alt="DMP2" src="https://user-images.githubusercontent.com/52202163/119265113-3381cb00-bc03-11eb-9585-cab1384111e5.png">
+   <img width="420" alt="2" src="https://user-images.githubusercontent.com/52202163/120165777-8a962a00-c219-11eb-8344-884f852a9da5.png">
   </td>
  </tr>
  <tr>
   <td>
-   <img width="420" alt="DMP3" src="https://user-images.githubusercontent.com/52202163/119264490-0d5b2b80-bc01-11eb-9044-db0834b529a2.png">
+   <img width="420" alt="3" src="https://user-images.githubusercontent.com/52202163/120165801-8f5ade00-c219-11eb-895e-6c1aa6a2d415.png">
   </td>
   <td>
-   <img width="420" alt="DMP4" src="https://user-images.githubusercontent.com/52202163/119264491-0df3c200-bc01-11eb-865e-6964615ca7c0.png">
+   <img width="420" alt="4" src="https://user-images.githubusercontent.com/52202163/120165824-941f9200-c219-11eb-9820-ea7d288bacb8.png">
    </td>
   </tr>
   <tr>
   <td>
-   <img width="420" alt="DMP3" src="https://user-images.githubusercontent.com/52202163/119264490-0d5b2b80-bc01-11eb-9044-db0834b529a2.png">
+   <img width="420" alt="5" src="https://user-images.githubusercontent.com/52202163/120165831-95e95580-c219-11eb-8667-b95c12a77f2a.png">
   </td>
   <td>
-   <img width="420" alt="DMP4" src="https://user-images.githubusercontent.com/52202163/119264491-0df3c200-bc01-11eb-865e-6964615ca7c0.png">
+   <img width="420" alt="6" src="https://user-images.githubusercontent.com/52202163/120165834-971a8280-c219-11eb-844e-d9fc329eefcb.png">
    </td>
-  </tr>
-  <tr>
-  <td>
-   <img width="420" alt="DMP3" src="https://user-images.githubusercontent.com/52202163/119264490-0d5b2b80-bc01-11eb-9044-db0834b529a2.png">
-  </td>
-  <td>
-   <img width="420" alt="DMP4" src="https://user-images.githubusercontent.com/52202163/119264491-0df3c200-bc01-11eb-865e-6964615ca7c0.png">
-   </td>
-  </tr>
  </table>
 
 
